@@ -1,0 +1,32 @@
+_repo: Hombres--Hommes-_20568
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verlaine, Paul
+    alias: Verlaine, Paul Marie
+    birthdate: 1844
+    deathdate: 1896
+    gutenberg_agent_id: '1531'
+    url: http://www.gutenberg.org/2009/agents/1531
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Paul_Verlaine
+    - http://en.wikipedia.org/wiki/Paul_Verlaine
+description: ''
+gutenberg_bookshelf: FR Séduction et libertinage
+gutenberg_issued: '2007-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20568'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+- !lcsh 'Erotic poetry, French'
+title: Hombres (Hommes)
+url: http://www.gutenberg.org/ebooks/20568
